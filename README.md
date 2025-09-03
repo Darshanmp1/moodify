@@ -34,7 +34,7 @@ A **Mood-Based Music Recommendation System** that uses **real-time facial emotio
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/Darshanmp1/moodiflyy.git
+   git clone https://github.com/Darshanmp1/moodify.git
    cd moodiflyy
 2. **Install the dependencies**
    pip install -r requirements.txt
