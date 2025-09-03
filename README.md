@@ -39,13 +39,14 @@ A **Mood-Based Music Recommendation System** that uses **real-time facial emotio
 2. **Install the dependencies**
    pip install -r requirements.txt
 
-3.Set up Spotify Developer Credentials (optional if using predefined links):
+3. Set up Spotify Developer Credentials (optional if using predefined links):
 
-Create an app at Spotify Developer Dashboard
+   Create an app at Spotify Developer Dashboard
 
-Copy the Client ID and Client Secret.
+   Copy the Client ID and Client Secret.
 
-Update the values in recommend_music.py:
+   Update the values in recommend_music.py:
 
-SPOTIFY_CLIENT_ID = "your_client_id"
-SPOTIFY_CLIENT_SECRET = "your_client_secret"
+   SPOTIFY_CLIENT_ID = "your_client_id"
+   
+   SPOTIFY_CLIENT_SECRET = "your_client_secret"
